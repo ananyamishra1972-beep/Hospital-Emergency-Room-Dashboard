@@ -74,5 +74,9 @@ Demographic Insights: Adults aged 30–39 and 20–29 make up the largest patien
 **Screenshots / Demos**
 
 (https://github.com/ananyamishra1972-beep/Hospital-Emergency-Room-Dashboard/blob/main/02.%20Monthly%20View%20of%20Hospital%20Emergy%20Room.png)
+
 (https://github.com/ananyamishra1972-beep/Hospital-Emergency-Room-Dashboard/blob/main/03.%20Consolidate%20View%20of%20H%20E%20R.png)
+
+(https://github.com/ananyamishra1972-beep/Hospital-Emergency-Room-Dashboard/blob/main/04.%20Patient%20Detail%20View%20of%20H%20E%20R.png)
+
 ()

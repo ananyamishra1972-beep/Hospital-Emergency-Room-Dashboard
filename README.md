@@ -48,6 +48,7 @@ Key Takeaways – A narrative summary page distilling the analysis into plain-la
 
 
 **Business Impact & Insights**
+
 Staffing Optimization: Peak days (Mondays, Saturdays, Tuesdays) and peak hours (11 AM, 7 PM, 1 PM, 11 PM) were identified, indicating when additional staffing is most needed.
 Patient Experience: Average wait time (~35.3 minutes) and average satisfaction score (4.99/10) point to clear opportunities to improve patient flow and experience.
 Referral Management: General Practice and Orthopedics account for the largest share of referrals, useful for capacity planning with partner departments.
